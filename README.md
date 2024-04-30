@@ -77,4 +77,4 @@ Acknowledgment of project contributors and their contributions.
 
 ## 11. License
 
-Specify the project's license information.
+[LICENSE](LICENSE.md)
